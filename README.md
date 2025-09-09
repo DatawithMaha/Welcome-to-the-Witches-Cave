@@ -25,4 +25,4 @@ This is a Python text-based adventure game where your mission is to find the pot
 
 Click the link below to play **Welcome to the Witches Cave** in your browser — no setup needed!
 
-👉 [Play on Replit](https://replit.com/@mahahussari/WitchesCave)
+👉 [Play on Replit](https://trinket.io/python/d17aac2182b7)
